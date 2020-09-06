@@ -24,7 +24,7 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+  <img src="https://github.com/zro00/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
 </p>
 
 # Quick Setup
